@@ -15,7 +15,7 @@
 
   <!-- 8thWall Web - Replace the app key here with your own app key -->
   <script
-    src="//apps.8thwall.com/xrweb?appKey=w7y6qogv1N0AtkhqQkl0HVkJMicVkf6uS5U9BW99WdJL0NLmKAH44wBfe7JlNgSK5fyjUC"></script>
+    src="//apps.8thwall.com/xrweb?appKey=sjExxfkA3nfypOpyj6Op42LtiW6YLTSbnowohEcnpuRdda3sravoATRfnUGYt84dipxS49"></script>
 
   <!-- client code -->
   <script src="index.js"></script>
